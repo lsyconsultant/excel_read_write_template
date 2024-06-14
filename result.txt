@@ -1,0 +1,2 @@
+result code : 1, result msg : success
+File Name:C:\Users\lee.suyong02\PycharmProjects\pythonProject1\0.(시각화의뢰)DATASET(240611).xlsx
